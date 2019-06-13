@@ -1,0 +1,16 @@
+sign:
+-1 - indeks
+0 - puste
+1 - x
+2 - o
+
+turn
+1 - x
+2 - o
+
+x - max
+o - min
+
+
+gr:
+-1 - gra sie toczy
